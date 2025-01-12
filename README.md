@@ -7,7 +7,9 @@ I’ve also worked with Python (Data Science), JavaScript, and React to a certai
 Explore My Work
 Check out my repositories to see some of the projects I’ve worked on.
 
-🔗 Visit my personal website: Explore
-💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/Visit-LinkedIn-blue)](https://www.linkedin.com/in/mohdimran01/)
-Let’s Connect!
+## 🔗 Let’s Connect!
+
+- 🌐 Visit my personal website: [Explore](https://imran-01.netlify.app/)  
+- 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/Visit-LinkedIn-blue)](https://www.linkedin.com/in/mohdimran01/)  
+
 If you’re interested in collaborating or have an opportunity in mind, feel free to get in touch.
