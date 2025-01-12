@@ -11,7 +11,7 @@ I specialize in developing applications using the **C++ Qt Framework** and have 
 
 ## 🔗 Let’s Connect!  
 
-- 🌐 Visit my personal website: [Explore](https://imran-01.netlify.app/)  
-- 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/Visit-LinkedIn-blue)](https://www.linkedin.com/in/mohdimran01/)  
+- 🌐 [Visit](https://imran-01.netlify.app/) my personal website.
+- 💼 Connect with me on ![LinkedIn](https://www.linkedin.com/in/mohdimran01/)  
 
 If you’re interested in collaborating or have an opportunity in mind, feel free to get in touch!
