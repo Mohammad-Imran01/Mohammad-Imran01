@@ -9,9 +9,6 @@ I’m **Mohammad Imran**, a **Software Developer** with expertise in **C++ progr
 
 I specialize in developing applications using the **C++ Qt Framework** and have created several products and personal projects to both showcase my skills and fulfill my passion for learning. Check out my repositories to see some of the exciting projects I’ve worked on!  
 
-## 🔗 Let’s Connect!  
-
-- 🌐 [Visit](https://imran-01.netlify.app/) my personal website.
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohdimran01/)  
+## 🔗 Let’s Connect!   
 
 If you’re interested in collaborating or have an opportunity in mind, feel free to get in touch!
